@@ -1,2 +1,2 @@
 # language-comparison
-Comparisons between programming languages
+Comparison between programming languages
